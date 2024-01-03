@@ -15,7 +15,7 @@ StyleMe is a personal styler react app. Sign up using your gmail and input your 
   - Another terminal will be the server (back-end):
      - Navigate to the server folder: ```cd server```
      - Install dependencies: ```npm install express mongoose cors axios```
-6. To run:
-  - In the client terminal: ```npm run dev```
-  - In the server terminal: ```npm start```
-7. Navigate to browser using the web address provided in the client terminal
+5. To run:
+     - In the client terminal: ```npm run dev```
+     - In the server terminal: ```npm start```
+6. Navigate to browser using the web address provided in the client terminal
